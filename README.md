@@ -1,19 +1,14 @@
-<h1 align="center">👋 Hello! I'm Nil</h1>
+## <div align="center"><div>👋 Hello! I'm Nil</div></div>
 
-<p align="center">
-full-stack developer | 5 yrs exps | inttochar@163.com
-</p>
+#### <div align="center">full-stack developer | 5 yrs exps | inttochar@163.com</div>
 
----
-
-📕 &nbsp;**Skills**
+### 📕 &nbsp;**Skills**
 - ⚡React / Vue / TypeScript / Next.js / NestJs / TailwindCSS
 - 🔭 Node.js / Golang / Rust
 - 💬 Gitlab / CICD
 - 🧑‍💻 Blockchain for BTC, Ethereum and Solana
 
-
-🚀 &nbsp;**Projects**
+## 🚀 **Projects**
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/> 
@@ -31,19 +26,3 @@ full-stack developer | 5 yrs exps | inttochar@163.com
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="mongodb" width="45" height="55"/>
 </p>
-
-
-<!--
-**jiang000jie/jiang000jie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
