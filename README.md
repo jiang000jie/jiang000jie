@@ -22,7 +22,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="mongodb" width="45" height="55"/>
 </p>
